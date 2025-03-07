@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am persuing Compiter Science Engineering. <br>I am currently learning Python.
+I am persuing Computer Science Engineering. <br>I am currently learning Python.
 
 
 ## 🌐 Socials:
